@@ -1,3 +1,5 @@
+@Library ('nodejs-sl') _
+
 pipeline {
     agent any
 
