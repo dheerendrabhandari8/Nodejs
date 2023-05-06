@@ -1,12 +1,17 @@
 # NodeJs Projects
-## Project#03: NodeAuth
+## Project#09: Portfolio
 
-- Login System Application using local Passport Express/MongoDB(mongoose)
-- Validation with express-validator 
-- Sessions and flash messages
-- Multer for uploading users avatar
-- Bootstrap theme
-- Building block for further projects
+- NodeJs + Express + MySQL + PHPMyAdmin
+- Using Custome Theme Starter Bootstrap.
+- Using Multer for Image Uploads.
+- Adding Simple CRUD for new Projects.
 
-### Show Case
-![VIEWS](https://github.com/MAshrafM/NodeJS_Projects/blob/master/03_nodeauth/show.jpg)
+
+Final Show Case
+![VIEWS](https://github.com/MAshrafM/NodeJS_Projects/blob/master/09_Portfolio/show.jpg)
+
+### Future
+- Adding login System to the Admin.
+- Adding latest news and feed.
+- Add A Blog.
+- Use Custome Theme.

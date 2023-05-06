@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('03_nodeauth:server');
+var debug = require('debug')('09_Portfolio:server');
 var http = require('http');
 
 /**
