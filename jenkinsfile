@@ -13,16 +13,25 @@ pipeline {
     )
     // checkout   ...
             }
-            }
         }
+    }
         stage('build the code') {
             steps {
                 script {
       build()
                 }
+            }
+        }
+      //  
+       stage('build the code') {
+            steps {
+                script {
+      staticCodeAnalysis()
+      
                 }
-                }
+            }
         }
     }
+}
 
 
