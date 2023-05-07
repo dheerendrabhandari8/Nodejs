@@ -15,10 +15,10 @@ pipeline {
             }
             }
         }
-        stage('unit test') {
+        stage('build') {
             steps {
                 script {
-      unit.Test{}
+      build{}
                 }
                 }
                 }
