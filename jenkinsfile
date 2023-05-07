@@ -23,7 +23,7 @@ pipeline {
             }
         }
       //  
-       stage('build the code') {
+       stage('static code analysis') {
             steps {
                 script {
       staticCodeAnalysis()
