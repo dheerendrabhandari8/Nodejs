@@ -15,13 +15,13 @@ pipeline {
             }
             }
         }
-        stage('build') {
-            steps {
-                script {
-      build{}
-                }
-                }
-                }
+    //     stage('build') {
+    //         steps {
+    //             script {
+    //   build{}
+    //             }
+    //             }
+    //             }
         }
     }
 
